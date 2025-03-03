@@ -226,4 +226,4 @@ This application is not officially affiliated with Fyers. Use at your own risk. 
 
 ---
 
-For any issues or questions, please open an issue on GitHub or contact [your contact information].
+For any issues or questions, please open an issue on GitHub or contact [info@lunargates.com].
