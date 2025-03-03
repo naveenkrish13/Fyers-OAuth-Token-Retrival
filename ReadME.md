@@ -2,7 +2,6 @@
 
 A secure and user-friendly web application for authenticating with the Fyers trading API and managing access tokens.
 
-![Fyers OAuth Integration Screenshot](https://via.placeholder.com/800x450.png?text=Fyers+OAuth+Integration)
 
 ## Features
 
@@ -69,7 +68,7 @@ pip install -r requirements.txt
 
 ### Step 1: Create a .env file
 
-Create a `.env` file in the project root directory with the following variables:
+Create a `.env` file in the project root directory with the following variables or change it "smaple.env" to ".env":
 
 ```
 APP_ID=your_fyers_app_id
